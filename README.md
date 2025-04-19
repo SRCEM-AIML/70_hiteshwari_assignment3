@@ -17,7 +17,7 @@ Prerequisites
 Install Docker
 Install Docker Compose
 Running with Docker Compose
-Clone the repository: git clone https://github.com/SRCEM-AIML/C06_DewanshWarjurkar_assignment3.git cd C06_DewanshWarjurkar_assignment3
+Clone the repository: git clone https://github.com/SRCEM-AIML/70_hiteshwari_assignment3
 Build and start the containers: docker-compose up --build
 Access the applications:
 Flask app: http://localhost:5000
